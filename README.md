@@ -26,8 +26,8 @@ a href="https://github.com/yulpaiva">
 
 <!-- 
 ![](./profile-3d-contrib/profile-green-animate.svg) 
--->
 ![Profile 3D](./profile-3d-contrib/profile-night-green.svg)
+-->
 ![Profile 3D](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
