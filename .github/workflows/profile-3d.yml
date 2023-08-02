@@ -14,7 +14,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${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}
-          USERNAME: ${yulpaiva}
+          USERNAME: ${github.yulpaiva}
       - name: Commit & Push
         run: |
           git config user.name github-actions
