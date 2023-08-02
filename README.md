@@ -24,6 +24,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yulpaiva&layout=compact&langs_count=7&theme=dracula" alt="yulpaiva" /></p> -->
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
+![Profile 3D](./profile-3d-contrib/profile-night-green.svg)
 
 
 </div>
