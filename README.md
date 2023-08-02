@@ -23,6 +23,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yulpaiva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yulpaiva&layout=compact&langs_count=7&theme=dracula" alt="yulpaiva" /></p> -->
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![Profile 3D](./profile-3d-contrib/profile-green-animate.svg)
+
 
 </div>
